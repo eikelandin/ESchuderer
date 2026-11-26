@@ -9,4 +9,4 @@ Software engineer conducting a small orchestra of agents and keeping them in tun
 
 [![PiMetry](https://img.shields.io/badge/PiMetry-pimetry.de-2b2b2b)](https://pimetry.de/en)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Eike%20Schuderer-0A66C2)](https://www.linkedin.com/in/eike-schuderer-61928010b/)
-[![Sponsor](https://img.shields.io/badge/sponsor-GitHub%20Sponsors-ea4aaa?logo=githubsponsors&logoColor=white)](https://github.com/sponsors/ESchuderer)
+[![Sponsor](https://img.shields.io/badge/Sponsor-eikelandin-db61a2?logo=githubsponsors&logoColor=white)](https://github.com/sponsors/eikelandin)
